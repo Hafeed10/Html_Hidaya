@@ -27,3 +27,7 @@ slider.querySelector(".controls .down").addEventListener("click", function () {
     (totalSlides - currentSlide) * -100
   }vh`;
 });
+
+
+
+
